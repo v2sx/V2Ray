@@ -14,6 +14,8 @@
 
 ## 安卓Android
 
+|[v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.1.15/v2rayNG_1.1.15.apk)|
+
 |[Kitsunebi-APK Pure](https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android)|[Kitsunebi-Google Play Store](https://play.google.com/store/apps/details?id=fun.kitsunebi.kitsunebi4android&hl=en_US)|
 
 |[BifrostV](https://github.com/V2Sx/V2Ray/raw/master/bifrostv-v0.6.8.apk)|[BifrostV-Google Play Store](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)|[BifrostV-APK Pure](https://apkpure.com/bifrostv/com.github.dawndiy.bifrostv)|
@@ -24,9 +26,9 @@
 
 ## 苹果Mac
 
-|[ClashX](https://github.com/V2Sx/V2Ray/raw/master/ClashX.dmg)|[ClashX-GitHub](https://github.com/yichengchen/clashX/releases)|
-
 |[V2RayU](https://github.com/V2Sx/V2Ray/raw/master/V2rayU-1.4.1.dmg)|[V2RayU-GitHub](https://github.com/yanue/V2rayU/releases)|
+
+|[ClashX](https://github.com/V2Sx/V2Ray/raw/master/ClashX.dmg)|[ClashX-GitHub](https://github.com/yichengchen/clashX/releases)|
 
 |[V2RayX](https://github.com/V2Sx/V2Ray/raw/master/V2RayX.app.zip)|[V2RayX-GitHub](https://github.com/Cenmrev/V2RayX/releases)|
 
