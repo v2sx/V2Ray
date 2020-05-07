@@ -8,7 +8,7 @@
 
 ## 苹果iOS
 
-|[Shadowrocket小火箭在线安装](https://v2sx.github.io/ios/)|[苹果美区账号 APPLE ID 免费账号共享](https://github.com/v2net/Apple)|
+|[Shadowrocket小火箭在线安装](https://appledi.com/Shadowrocket/)|[苹果美区账号 APPLE ID 免费账号共享](https://appledi.com/)|
 
 |[Kitsunebi](https://itunes.apple.com/us/app/kitsunebi-proxy-utility/id1446584073?mt=8)|[Shadowrocket](https://itunes.apple.com/us/app/shadowrocket/id932747118?mt=8)|[Quantumult](https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8)|[Pepi](https://itunes.apple.com/us/app/pepi/id1283082051?mt=8)|[i2Ray](https://itunes.apple.com/us/app/i2ray/id1445270056?mt=8)|
 
